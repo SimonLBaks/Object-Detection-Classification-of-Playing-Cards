@@ -1,1 +1,1 @@
-# Object-Detection-Classification-of-Playing-Cards
+# Object Detection/Classification of Playing-Cards
