@@ -1,9 +1,6 @@
 from utils import shm, Monitor_Info, capture_utils
 from ctypes import c_int8
 import multiprocessing as mp
-import numpy as np
-import keyboard
-import time
 import mss
 import os
 import cv2
